@@ -1,0 +1,1 @@
+# djangoShop2026
